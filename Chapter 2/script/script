@@ -1,0 +1,2 @@
+# script -r output.session 开始录制
+# script -p output.session 播放
